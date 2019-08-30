@@ -32,8 +32,14 @@ body button {
   margin-bottom: 20px;
 }
 
-#game-board {
+/* #game-board {
+  float: left;
+  padding: 20px 0px;
+  border: 1px solid red;
+} */
+
+canvas {
     float: left;
-    padding: 20px 0px;
-    border: 1px solid red;
+    /* padding: 20px 0px; */
+    /* border: 1px solid red; */
 }
